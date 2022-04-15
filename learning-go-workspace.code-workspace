@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "arrays-and-slices"
+		},
+		{
+			"path": "pointers-errors"
+		},
+		{
+			"path": "hello-world"
+		},
+		{
+			"path": "integers"
+		},
+		{
+			"path": "iteration"
+		},
+		{
+			"path": "maps"
+		},
+		{
+			"path": "structs-methods-interfaces"
+		},
+		{
+			"path": "dependency-injection"
+		}
+	],
+	"settings": {}
+}
