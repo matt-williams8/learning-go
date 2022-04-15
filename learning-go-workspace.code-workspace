@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "dependency-injection"
+		},
+		{
+			"path": "mocking"
 		}
 	],
 	"settings": {}
